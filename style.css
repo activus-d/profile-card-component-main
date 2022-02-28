@@ -148,10 +148,10 @@ MEDIA QUERIES
 }
 @media screen and (max-width: 400px) {
     main {
-        height: 50vh;
+        height: 60vh;
         width: 80%;
-        position: relative;
-        display: flex;
-        flex-direction: column;
+    }
+    body {
+        background-position: left 100% bottom 55rem, right 120% top 40rem;
     }
 }
