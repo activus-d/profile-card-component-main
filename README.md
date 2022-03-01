@@ -65,5 +65,6 @@ http://www.w3schools.com helped me with the various use of the background proper
 ## Author
 
 - Website - [Damilola Mohammed]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/activus-d)
-- Twitter - [@yourusername](https://www.twitter.com/activus_d)
+- Frontend Mentor - [@activus-d](https://www.frontendmentor.io/profile/activus-d)
+- Twitter - [@activus_d](https://www.twitter.com/activus_d)
+
