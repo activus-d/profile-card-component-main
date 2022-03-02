@@ -31,7 +31,7 @@ main {
 }
 .vicPic {
     position: absolute;
-    left: 35%;
+    left: 32%;
     bottom: 45%;
 }
 
@@ -109,43 +109,6 @@ FOOTER
 MEDIA QUERIES
 *******************************/
 
-@media screen and (max-width: 1440px) {
-    body {
-        background-position: left -50% bottom 50rem, right -70% top 40rem;
-    }
-    .vicPic {
-        position: absolute;
-        left: 28%;
-        bottom: 55%;
-    }
-    .vicPic img {
-        height: 15rem;
-        width: 15rem;
-        border-radius: 50%;
-        border: 7px solid white;
-    }
-}
-@media screen and (max-width: 1270px) {
-    body {
-        background-position: left -105% bottom 50rem, right -70% top 60rem;
-    }
-    .vicPic {
-        position: absolute;
-        left: 24%;
-        bottom: 55%;
-    }
-    address {
-        position: absolute;
-        top: 55%;
-        left: 28%;
-    }
-    .vicPic img {
-        height: 15rem;
-        width: 15rem;
-        border-radius: 50%;
-        border: 7px solid white;
-    }
-}
 @media screen and (max-width: 400px) {
     main {
         height: 60vh;
@@ -153,5 +116,16 @@ MEDIA QUERIES
     }
     body {
         background-position: left 100% bottom 55rem, right 120% top 40rem;
+    }
+       .vicPic img {
+        height: 10rem;
+        width: 10rem;
+        border-radius: 50%;
+        border: 7px solid white;
+    }
+    .vicPic {
+        position: absolute;
+        left: 32%;
+        bottom: 55%;
     }
 }
